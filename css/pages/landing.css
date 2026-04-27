@@ -1,0 +1,56 @@
+#hero {
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+    position: relative;
+}
+
+#hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#hero * {
+    position: relative;
+}
+
+/* ===== ABOUT ===== */
+.about-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.about-container img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.about-container p {
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.brand-sub {
+    font-size: 12px;
+    display: block;
+    color: gray;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    width: 100%;
+    background:--dark;
+}
+
+header.scrolled {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Formateo e instalación",
+        "description": "Instalación completa del sistema y programas esenciales.",
+        "time": "2 a 4 horas",
+        "price": "Desde $50.000",
+        "image": "assets/images/formateo.jpg",
+        "category": "computadores",
+        "details": [
+            "Instalación de Windows",
+            "Drivers actualizados",
+            "Programas básicos",
+            "Optimización inicial"
+        ]
+    },
+    {
+        "title": "Optimización de equipos lentos",
+        "description": "Mejora el rendimiento de tu computador.",
+        "time": "1 a 2 horas",
+        "price": "Desde $30.000",
+        "image": "assets/images/optimizacion.jpg",
+        "category": "computadores",
+        "details": [
+            "Limpieza de archivos innecesarios",
+            "Optimización del arranque",
+            "Mejora de rendimiento",
+            "Revisión de procesos"
+        ]
+    },
+    {
+        "title": "Eliminación de virus",
+        "description": "Limpieza profunda de malware y amenazas.",
+        "time": "1 a 3 horas",
+        "price": "Desde $30.000",
+        "image": "assets/img/virus.png",
+        "category": "seguridad",
+        "details": [
+            "Análisis completo del sistema",
+            "Eliminación de virus",
+            "Protección básica",
+            "Recomendaciones de seguridad"
+        ]
+    },
+    {
+        "title": "Mantenimiento preventivo",
+        "description": "Limpieza y cuidado interno del equipo.",
+        "time": "1 a 2 horas",
+        "price": "Desde $40.000",
+        "image": "assets/images/mantenimiento.jpg",
+        "category": "mantenimiento",
+        "details": [
+            "Limpieza interna",
+            "Cambio de pasta térmica",
+            "Revisión de ventilación",
+            "Prevención de sobrecalentamiento"
+        ]
+    },
+    {
+        "title": "Actualización de hardware",
+        "description": "Mejora tu equipo con nuevas piezas.",
+        "time": "1 a 3 horas",
+        "price": "Desde $50.000",
+        "image": "assets/images/hardware.jpg",
+        "category": "computadores",
+        "details": [
+            "Instalación de SSD",
+            "Ampliación de RAM",
+            "Optimización de rendimiento",
+            "Revisión de compatibilidad"
+        ]
+    },
+    {
+        "title": "Recuperación de información",
+        "description": "Recupera archivos eliminados o dañados.",
+        "time": "Variable",
+        "price": "Desde $40.000",
+        "image": "assets/images/recuperacion.jpg",
+        "category": "computadores",
+        "details": [
+            "Recuperación de archivos",
+            "Análisis de disco",
+            "Rescate de información",
+            "Backup seguro"
+        ]
+    },
+    {
+        "title": "Configuración de redes",
+        "description": "Instalación y solución de problemas de internet.",
+        "time": "1 a 2 horas",
+        "price": "Desde $30.000",
+        "image": "assets/images/redes.jpg",
+        "category": "redes",
+        "details": [
+            "Configuración de WiFi",
+            "Instalación de router",
+            "Solución de conexión",
+            "Optimización de señal"
+        ]
+    },
+    {
+        "title": "Soporte técnico general",
+        "description": "Solución integral para tus equipos.",
+        "time": "Variable",
+        "price": "A convenir",
+        "image": "assets/images/soporte.jpg",
+        "category": "general",
+        "details": [
+            "Diagnóstico completo",
+            "Asesoría tecnológica",
+            "Soporte remoto o presencial",
+            "Soluciones personalizadas"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+.btn {
+    display: inline-block;
+    background: var(--primary);
+    color: #fff;
+
+    padding: 12px 22px;
+    border-radius: 25px;
+    /* 👈 puntas redondas */
+
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #1da851;
+    /* un poco más oscuro */
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn:active {
+    transform: scale(0.97);
+}

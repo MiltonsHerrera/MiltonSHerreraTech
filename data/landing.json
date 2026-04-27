@@ -1,0 +1,33 @@
+{
+    "hero": {
+        "title": "Reparación de Computadores en Cali",
+        "subtitle": "Soluciones rápidas, seguras y a buen precio",
+        "image": "assets/images/hero.jpg"
+    },
+    "services": [
+        {
+            "title": "Formateo e instalación",
+            "description": "Instalación de Windows, drivers y programas esenciales."
+        },
+        {
+            "title": "Eliminación de virus",
+            "description": "Limpieza profunda de malware y protección del sistema."
+        },
+        {
+            "title": "Mantenimiento preventivo",
+            "description": "Limpieza interna y optimización del equipo."
+        }
+    ],
+    "about": {
+        "name": "Milton Herrera",
+        "title": "Técnico en computadores y soporte tecnológico",
+        "description": "Soy técnico con experiencia en reparación, mantenimiento y optimización de equipos de cómputo. Trabajo con soluciones prácticas, rápidas y seguras para que tus dispositivos funcionen como nuevos.",
+        "experience": "Más de 10 años de experiencia",
+        "location": "Cali, Colombia",
+        "image": "assets/images/about.jpg"
+    },
+    "contact": {
+        "phone": "573045666645",
+        "message": "Hola, quiero información sobre tus servicios técnicos"
+    }
+}
