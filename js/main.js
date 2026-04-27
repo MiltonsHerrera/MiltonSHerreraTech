@@ -1,4 +1,4 @@
-import { getServices } from "./data/services/services.js";
+import { getServices } from "./services/services.js";
 import { renderServices } from "./ui/renderServices.js";
 import { addServiceEvents } from "./ui/serviceEvents.js";
 
